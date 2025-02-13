@@ -20,7 +20,7 @@ Students are required to modify and enhance this GUI incrementally every three w
 *   **Enhance the GUI:** The default interface is provided, but students are encouraged to improve usability and design.
 *   **Ensure Data and Method Appropriateness:** The datasets and algorithms should be compatible within the GUI structure.
 *   **Implement Training and Testing Processes:** Correctly implement model training and evaluation workflows.
-*   **Regular Submissions:** Submit updates every three weeks through GitHub forks.
+*   **Regular Submissions:** Submit updates every three weeks through Google Classroom for this course.
 
 ---
 

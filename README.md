@@ -26,8 +26,6 @@ Students are required to modify and enhance this GUI incrementally every three w
 
 ## 🤝 Repository and Collaboration
 
-%% The base project is hosted on GitHub: [https://github.com/bayraktare](https://github.com/bayraktare)
-
 Students should fork this repository and develop their versions.
 
 Regular commits and documentation updates are expected.

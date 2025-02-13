@@ -43,4 +43,4 @@ Ensure you have the following installed:
 ### 📦 Required dependencies:
 
 ```bash
-pip install numpy pandas matplotlib PyQt6 scikit-learn tensorflow
+pip install numpy pandas matplotlib PyQt6 scikit-learn tensorflow pytorch opencv-python opencv-contrib-python scipy fastai 
